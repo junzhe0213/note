@@ -25,7 +25,7 @@
             </StackPanel>
             <StackPanel Orientation="Horizontal" Background="#191919" Width="125">
                 <Button Width="30" Height="30" x:Name="Whtie" Background="Black" Margin="20 0 0 0" Click="Whtie_Click"></Button>
-                <Button Width="30" Height="30" x:Name="Black" Background="Green" Margin="20 0 0 0" Click="Black_Click"></Button>
+                <Button Width="30" Height="30" x:Name="Black" Background="DarkGray" Margin="20 0 0 0" Click="Black_Click"></Button>
             </StackPanel>
             <StackPanel Orientation="Horizontal" Width="150" Height="30" Margin="20">
                 <TextBlock Foreground="Green" FontSize="20" Margin="25 5 0 0">靠北工程師</TextBlock>

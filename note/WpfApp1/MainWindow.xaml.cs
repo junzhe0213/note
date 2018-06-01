@@ -82,7 +82,7 @@ namespace WpfApp1
 
         private void Black_Click(object sender, RoutedEventArgs e)
         {
-            Textarea.Background = Brushes.Green;
+            Textarea.Background = Brushes.DarkGray;
             Textarea.Foreground = Brushes.Black;
         }
     }
